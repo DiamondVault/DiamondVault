@@ -41,6 +41,7 @@ This does **not** affect security or functionality — it simply means our code 
 ---
 
 ## 🛡️ Transparency Badges
+
 ![Liquidity Locked](https://img.shields.io/badge/Liquidity-Locked-brightgreen?style=for-the-badge&logo=lock&logoColor=white)
 ![Multi-Sig Wallet](https://img.shields.io/badge/Team%20Tokens-Multi--Sig%20Safe-blue?style=for-the-badge&logo=gnosis&logoColor=white)
 ![Whitepaper Updated](https://img.shields.io/badge/Whitepaper-Updated-orange?style=for-the-badge&logo=readme&logoColor=white)
